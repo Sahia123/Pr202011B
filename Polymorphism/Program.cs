@@ -22,6 +22,7 @@ namespace Polymorphism
             public void payfees(string c , float b)
             {
                 Console.WriteLine("Student " + c +  " pay fees Rs:" + b);
+Console.WriteLine("I have added some lines");
             }
 
         }
